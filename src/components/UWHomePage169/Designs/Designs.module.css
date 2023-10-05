@@ -1,0 +1,30 @@
+.root {
+  position: absolute;
+  left: 89px;
+  top: 260px;
+  width: 186px;
+  height: 57px;
+  align-items: flex-start;
+}
+.rectangle3 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #000;
+}
+.design {
+  color: #fff;
+  font-size: 22px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 17.2043%;
+  right: 17.2043%;
+  top: 24.5614%;
+  bottom: 24.5614%;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
